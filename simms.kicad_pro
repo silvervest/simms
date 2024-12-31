@@ -58,10 +58,7 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [
-        "lib_footprint_mismatch|117825000|81675000|58c626dc-8c51-4f0e-9d65-b197bfca917f|00000000-0000-0000-0000-000000000000",
-        "solder_mask_bridge|117800000|81600000|2ee8604f-320a-4dc3-b683-8ad7d80519a4|b8f72f12-7097-47ea-859f-2fc0d98c1a4e"
-      ],
+      "drc_exclusions": [],
       "meta": {
         "version": 2
       },
@@ -136,7 +133,7 @@
         "min_via_diameter": 0.5,
         "solder_mask_clearance": 0.0,
         "solder_mask_min_width": 0.0,
-        "solder_mask_to_copper_clearance": 0.0,
+        "solder_mask_to_copper_clearance": 0.005,
         "use_height_for_length_calcs": true
       },
       "teardrop_options": [

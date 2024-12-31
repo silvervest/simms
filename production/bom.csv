@@ -1,0 +1,7 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+"C1, C2, C3",1206,3,100n,
+J1,SIMM_30pin,1,Conn_01x30,
+JP1,SolderJumper-3_P2.0mm_Open_TrianglePad1.0x1.5mm,1,FPM/EDO hack,
+JP2,SolderJumper-3_P2.0mm_Open_TrianglePad1.0x1.5mm,1,256k/1m,
+"U1, U2",SOJ-26-20_8.89x17.4mm_P1.27mm,2,DRAM_HY514400_1Mx4bit,
+U3,SOJ-26-20_8.89x17.4mm_P1.27mm,1,DRAM_TMS4C1024_1Mx1bit,
